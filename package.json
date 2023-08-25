@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "cocomelon_yt",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "tv lol",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -11,7 +11,7 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "Cocomelon videos"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
